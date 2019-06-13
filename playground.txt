@@ -9,4 +9,4 @@ nouvelle ligne
 nouvelle ligne pour la 3eme branche
 nouvelle ligne pour 3 eme branche encore
 nouvele ligne pour 2eme branche
-rajout d'une ligne suite a la creation de la branche rebase
+suppression + rajout
