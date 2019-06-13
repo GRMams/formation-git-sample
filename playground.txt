@@ -1,2 +1,6 @@
-formation git
-rajount d'une ligne pour suivre le tracking
+
+# message pour le commit
+# changements qui vont être commites , .gitignore et playground
+
+message pour que le fichier soit lu !!
+ligne pour activer modification
